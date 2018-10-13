@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=infra_training
+POSTGRES_USER=KtHKPJlncPIFBYeQuypZPZtiHrFkJJrB
+POSTGRES_PASSWORD=SAtBKVnQVbou37zKv0yIchJ1vEkzsOMs1FSageFovjj696Vg8kbHRYDJCcaprYKM
